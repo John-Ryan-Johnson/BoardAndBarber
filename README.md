@@ -4,4 +4,6 @@
 2. Created Database using Microsoft SQL Server Management Studio.
 3. Used T-Sql to query database.
 4. Practiced ADO.NET to perform CRUD actions.
-5. Converted to Dapper for the CRUD actions
+5. Converted to Dapper for the CRUD actions.
+6. Added React for front-end.
+7. Added authentication using Firebase.
